@@ -9,6 +9,8 @@ def getData(file):
 #Input: file name
 #Ouput: return a list of dictionary objects where
 #the keys are from the first row in the data. and the values are each of the other rows
+# added comment for git
+# added a new comment
 
 	pass
 
